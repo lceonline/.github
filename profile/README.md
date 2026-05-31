@@ -4,7 +4,7 @@
 Known as (LCEOnline, LEMP, MCLEMP)
 
 ## Project Info
-The goal of this project was to restore how LCE's multiplayer worked by adding Authentication, Proxied Worlds/Servers & Restoring Leaderboards
+The goal of this project was to restore how LCE's multiplayer worked by adding Authentication, Proxied Worlds/Servers & Restoring Leaderboards.
 As of 5/31/2026 this project will be put on hold temporarily, all public repos will have been archived, Authentication & The proxy will remain online.
 
 This project was started on 3/4/26 making it one of the oldest LCE projects.
