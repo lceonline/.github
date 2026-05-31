@@ -1,16 +1,15 @@
 ![Legacy Edition Banner](../banner.png)
 # Minecraft Legacy Edition Multiplayer (mclemp)
 
-Known as (LCEOnline, LEMP, MCLEMP)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/u9f67jaWyP)
+[![Website](https://img.shields.io/badge/Website-0A66C2?logo=firefoxbrowser&logoColor=white)](https://mclegacyedition.xyz)
 
 ## Project Info
 The goal of this project was to restore how LCE's multiplayer worked by adding Authentication, Proxied Worlds/Servers & Restoring Leaderboards.     
 As of 5/31/2026 this project will be put on hold temporarily, all public repos will have been archived, Authentication & The proxy will remain online.
 
 This project was started on 3/4/26 making it one of the oldest LCE projects.
-
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/u9f67jaWyP)
-[![Website](https://img.shields.io/badge/Website-0A66C2?logo=firefoxbrowser&logoColor=white)](https://mclegacyedition.xyz)
+This project is also known as LCEOnline, LEMP & MCLEMP
 
 ## Tool's we use
 ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
