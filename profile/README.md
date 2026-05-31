@@ -1,6 +1,8 @@
 ![Legacy Edition Banner](../banner.png)
 # Minecraft Legacy Edition Multiplayer (mclemp)
 
+Known as (LCEOnline, LEMP, MCLEMP)
+
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/u9f67jaWyP)
 [![Website](https://img.shields.io/badge/Website-0A66C2?logo=firefoxbrowser&logoColor=white)](https://mclegacyedition.xyz)
 
