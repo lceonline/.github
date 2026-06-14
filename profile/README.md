@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/github/stars/LCE-Network?style=for-the-badge&color=0EA5E9&labelColor=111111">
 <img src="https://img.shields.io/github/forks/LCE-Network/.github?style=for-the-badge&color=0EA5E9&labelColor=111111">
 <img src="https://img.shields.io/badge/Built%20for-LCE%20Online-0EA5E9?style=for-the-badge&labelColor=111111">
-<img src="https://img.shields.io/badge/Progress-21%25-0EA5E9?style=for-the-badge&labelColor=111111">
 <a href="https://discord.gg/wNScT5Yjjs">
   <img src="https://img.shields.io/discord/1478867247425523812?style=for-the-badge&logo=discord&logoColor=white&color=2563EB&labelColor=111111">
 </a>
