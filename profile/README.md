@@ -5,10 +5,9 @@
 [![Website](https://img.shields.io/badge/Website-0A66C2?logo=firefoxbrowser&logoColor=white)](https://mclegacyedition.xyz)
 
 ## Project Info
-The goal of this project was to restore how LCE's multiplayer worked by adding Authentication, Proxied Worlds/Servers & Restoring Leaderboards.     
-As of 5/31/2026 this project will be put on hold temporarily, all public repos will have been archived, Authentication & The proxy will remain online.
+The goal of this project is to restore how LCE's multiplayer worked by adding Authentication, Proxied Worlds/Servers & Restoring Leaderboards. 
 
-This project was started on 3/4/26 making it one of the oldest LCE projects.
+This project was started on 3/4/26 making it one of the oldest LCE projects. 
 This project is known as LCEOnline, LEMP & MCLEMP
 
 ## Tool's we use
